@@ -1,0 +1,15 @@
+.signIn-form {
+    text-align: center;
+}
+form {
+border:2px solid skyblue;
+padding: 3rem;
+color: rgb(26, 5, 5);
+font: bolder;
+margin: 1rem;
+align-items: center;
+}
+
+.signIn-form-header {
+    padding: 2rem;
+    }

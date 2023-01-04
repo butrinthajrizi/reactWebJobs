@@ -1,0 +1,43 @@
+* {
+  box-sizing: border-box ;
+  font-family: sans-serif;
+  margin: 0;
+
+}
+
+.header {
+    display: grid;
+    grid-auto-flow: column;
+    padding: 0.5rem;
+  /* height: fit-content; */
+  background: linear-gradient( rgb(59, 58, 68) 0%, rgb(162, 162, 183) 0%, rgb(190, 219, 225) 100%);;
+  align-items: center;
+}
+
+.header-name {
+  font-size: 42px;
+  color: rgb(18, 17, 17);
+  text-transform: uppercase;
+  font-weight: bolder;
+ justify-self: center;
+ padding-left: 2rem;
+}
+
+.header-logo {
+    width: 100px;
+    /* object-fit: cover; */
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.nav {
+justify-self: end;
+}
+  
+
+.link {
+  color: #fff;
+  padding: 10px 15px; 
+  text-decoration: none;
+}
+

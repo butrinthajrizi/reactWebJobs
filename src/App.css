@@ -1,0 +1,69 @@
+.App {
+margin: 0;
+height: 100vh;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+  
+}
+
+body {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  height: 100vh;
+  background: #ece6e0;
+
+}
+
+
+/* Single employer page */
+.employer-wrapper {
+    display: grid;
+    margin: 0 auto;
+    column-gap: 2rem;
+    grid-template-columns: 4fr 6fr;
+    padding: 2rem;
+    height: 100%; 
+}
+
+
+.employer-wrapper > img {
+  align-self: center;
+  width: 200px;
+}
+
+.employer-wrapper__side {
+  position: relative;
+  display: grid;
+  grid-template-rows: 20% auto;
+  align-content: start;
+  padding-left: 1rem;
+  border-left: 2px solid;
+}
+
+.employer-wrapper__side h3 {
+  align-self: start;
+}
+
+.employer-wrapper__side h2 {
+  margin: 1rem 0;
+}
+
+.employer-wrapper__side p {
+  padding: 1rem;
+ font-size: larger;
+ font: bold;
+ color: rgb(34, 67, 105);
+ 
+}
+
+.employer-wrapper__side span {
+  padding-left: 0.5rem;
+}
+
+
+

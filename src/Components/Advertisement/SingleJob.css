@@ -1,0 +1,43 @@
+.flex {
+  display: flex;
+  box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+  margin: 2rem;
+  padding: 1rem;
+  gap: 0.5rem;
+  align-items: center;
+  padding-bottom: 3rem;
+}
+
+.logo {
+  width: 70px;
+  border-radius: 50%;
+  border: 2px solid black;
+}
+
+.job-details {
+  margin-left: 1rem;
+  margin-right: auto;
+}
+
+.job-details h2 {
+  padding-bottom: 0.5rem;
+  font: bold;
+  font-size: x-large;
+  color: rgb(18, 105, 105);
+}
+
+.job-details span {
+  padding-right: 0.5rem;
+  color: rgb(101, 93, 93);
+}
+
+.lang-tools span {
+  margin-right: 1rem;
+  font-size: large;
+  font-size: bold;
+  color: rgb(22, 92, 86);
+  border: 1px solid rgb(118, 159, 156);
+  border-radius: 5px;
+  background-color: rgb(134, 186, 182) ;
+  padding: 0.5rem;
+}

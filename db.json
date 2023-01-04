@@ -1,0 +1,282 @@
+{
+  "employers": [
+    {
+      "id": 1,
+      "email": "alexanderhipp@email.com",
+      "name": "Alexander Hipp",
+      "profilePic": "https://images.unsplash.com/profile-1619559142670-fcd58dab16a9image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2021-08-20",
+      "updatedAt": "2021-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "BM123"
+      }
+    },
+    {
+      "id": 2,
+      "email": "julianwan@email.com",
+      "name": "Julian Wan",
+      "profilePic": "https://images.unsplash.com/profile-1565313960841-3afa95905c92?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 1000,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 months",
+        "role": "Java developer",
+        "verified": true
+      },
+      "createdAt": "2022-07-15",
+      "updatedAt": "2022-07-16",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "BM123"
+      }
+    },
+    {
+      "id": 3,
+      "email": "michaeldam@email.com",
+      "name": "Michael Dam",
+      "profilePic": "https://images.unsplash.com/profile-fb-1494602029-41c3d3172600.jpg?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2019-08-24",
+      "updatedAt": "2019-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "BM123"
+      }
+    },
+    {
+      "id": 4,
+      "email": "courtneycook@email.com",
+      "name": "Courtney Cook",
+      "profilePic": "https://images.unsplash.com/profile-1623786828771-26661a8bc4a1image?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2019-08-24",
+      "updatedAt": "2019-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "AS456"
+      }
+    },
+    {
+      "id": 5,
+      "email": "christinhume@email.com",
+      "name": "Christin Hume",
+      "profilePic": "https://images.unsplash.com/profile-1511802548158-cce71a9f2d0b?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2019-08-24",
+      "updatedAt": "2019-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "AS456"
+      }
+    },
+    {
+      "id": 6,
+      "email": "vinceveras@email.com",
+      "name": "Vince Veras",
+      "profilePic": "https://images.unsplash.com/profile-1627890156871-045f1e01204aimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2019-08-24",
+      "updatedAt": "2019-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "BM123"
+      }
+    },
+    {
+      "id": 7,
+      "email": "hannahbusing@email.com",
+      "name": "Hannah Busing",
+      "profilePic": "https://images.unsplash.com/profile-1582063050734-acc8772dc1eaimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2019-08-24",
+      "updatedAt": "2019-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "AS456"
+      }
+    },
+    {
+      "id": 8,
+      "email": "edpylypenko@email.com",
+      "name": "Ed Pylypenko",
+      "profilePic": "https://images.unsplash.com/profile-1572172925166-0f68749ce20fimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "salary": 2500,
+      "workspace": {
+        "department": "Programming",
+        "icon": "https://e7.pngegg.com/pngimages/450/656/png-clipart-programmer-computer-icons-ninja-saga-computer-software-ninja-computer-sticker.png",
+        "contract": "2 years",
+        "role": "React developer",
+        "verified": true
+      },
+      "createdAt": "2019-08-24",
+      "updatedAt": "2019-08-24",
+      "jobs": {
+        "jobsCount": 3,
+        "positions": [
+          "Java",
+          "NodeJs",
+          "React"
+        ],
+        "userId": "AS456"
+      }
+    }
+  ],
+  "users": [
+    {
+      "name": "Brunilda Muco",
+      "id": "BM123",
+      "password": "bruna123"
+    },
+    {
+      "name": "Anna Smith",
+      "id": "AS456",
+      "password": "anna123"
+    },
+    {
+      "name": "Genta",
+      "id": "g123",
+      "password": "1234"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ovJHPrFHLdeRvBiIeeQejWyf9nz4KxGqbh5sR2c&s",
+      "position": "Senior Frontend Developer",
+      "role": "Frontend",
+      "level": "Senior",
+      "contract": "Full time",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "posted": "1d ago"
+    },
+    {
+      "id": 2,
+      "logo": "https://images-platform.99static.com/FWvZUrBBgg_FQbdXlquX0lf2KSI=/500x500/top/smart/99designs-contests-attachments/28/28801/attachment_28801044",
+      "position": "Fullstack Developer",
+      "role": "Fullstack",
+      "level": "Midweight",
+      "contract": "Part time",
+      "languages": [
+        "Python"
+      ],
+      "tools": [
+        "React"
+      ],
+      "posted": "1w ago"
+    },
+    {
+      "id": 3,
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8ovJHPrFHLdeRvBiIeeQejWyf9nz4KxGqbh5sR2c&s",
+      "position": "Junior Frontend Developer",
+      "role": "Frontend",
+      "level": "Junior",
+      "contract": "Contract",
+      "languages": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "posted": "3d ago"
+    },
+    {
+      "id": 4,
+      "logo": "https://upload.wikimedia.org/wikipedia/en/7/7b/Software-Freedom-Conservancy-Logo.svg",
+      "position": "Software Engineer",
+      "role": "Fullstack",
+      "level": "Midweight",
+      "contract": "Full time",
+      "languages": [
+        "JavaScript"
+      ],
+      "tools": [
+        "Ruby",
+        "Sass"
+      ],
+      "posted": "2w ago"
+    }
+  ]
+}

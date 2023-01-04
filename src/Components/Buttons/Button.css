@@ -1,0 +1,21 @@
+.button {
+    border: solid 3px black;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 1rem;
+    background-color: white;
+    transition: 0.2s;
+    width: 200px;
+    justify-self: center;
+  
+  }
+  
+  button:hover {
+    filter: brightness(1.2);
+      box-shadow: 0 0 20px rgba(104, 85, 224, 0.6);
+      background-color: rgba(104, 85, 224, 1); 
+  }
+  
+  button:active {
+    filter: brightness(0.8)
+  }

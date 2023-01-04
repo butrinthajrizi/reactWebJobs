@@ -1,0 +1,11 @@
+.jobs-form {
+    display: flex;
+    align-items: center;
+}
+
+.jobs-form input {
+    padding: 0.5rem;
+    margin: 0.25rem;
+    color: black;
+    border: 2px solid black;
+}
